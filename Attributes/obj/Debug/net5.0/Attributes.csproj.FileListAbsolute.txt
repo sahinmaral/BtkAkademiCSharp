@@ -1,0 +1,16 @@
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\Attributes.exe
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\Attributes.deps.json
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.json
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\Attributes.dll
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\ref\Attributes.dll
+C:\Users\sahin\Desktop\C#\Attributes\bin\Debug\net5.0\Attributes.pdb
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfo.cs
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.dll
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\ref\Attributes.dll
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.pdb
+C:\Users\sahin\Desktop\C#\Attributes\obj\Debug\net5.0\Attributes.genruntimeconfig.cache

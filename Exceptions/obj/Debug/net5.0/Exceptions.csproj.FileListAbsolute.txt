@@ -1,0 +1,16 @@
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+C:\Users\sahin\Desktop\C#\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\Users\sahin\Desktop\C#\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache

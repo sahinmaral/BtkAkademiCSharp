@@ -1,0 +1,5 @@
+C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb

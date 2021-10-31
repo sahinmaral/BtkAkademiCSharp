@@ -1,0 +1,6 @@
+C:\Users\sahin\Desktop\C#\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\sahin\Desktop\C#\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\sahin\Desktop\C#\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\sahin\Desktop\C#\DesignPatterns\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

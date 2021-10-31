@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Northwind.UnitTests
+build_property.ProjectDir = C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.UnitTests\

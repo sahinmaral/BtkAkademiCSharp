@@ -1,0 +1,16 @@
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\Reflections.exe
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\Reflections.deps.json
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\Reflections.runtimeconfig.json
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\Reflections.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\Reflections.dll
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\ref\Reflections.dll
+C:\Users\sahin\Desktop\C#\Reflections\bin\Debug\net5.0\Reflections.pdb
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.AssemblyInfo.cs
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.dll
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\ref\Reflections.dll
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.pdb
+C:\Users\sahin\Desktop\C#\Reflections\obj\Debug\net5.0\Reflections.genruntimeconfig.cache

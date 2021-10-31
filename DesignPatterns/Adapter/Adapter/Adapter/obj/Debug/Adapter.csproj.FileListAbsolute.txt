@@ -1,0 +1,6 @@
+C:\Users\sahin\Desktop\C#\DesignPatterns\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\sahin\Desktop\C#\DesignPatterns\Adapter\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\sahin\Desktop\C#\DesignPatterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\DesignPatterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\DesignPatterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\sahin\Desktop\C#\DesignPatterns\Adapter\Adapter\Adapter\obj\Debug\Adapter.pdb

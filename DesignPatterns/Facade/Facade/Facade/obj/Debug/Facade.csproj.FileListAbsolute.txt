@@ -1,0 +1,6 @@
+C:\Users\sahin\Desktop\C#\DesignPatterns\Facade\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\sahin\Desktop\C#\DesignPatterns\Facade\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\sahin\Desktop\C#\DesignPatterns\Facade\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\DesignPatterns\Facade\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\DesignPatterns\Facade\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\sahin\Desktop\C#\DesignPatterns\Facade\Facade\Facade\obj\Debug\Facade.pdb

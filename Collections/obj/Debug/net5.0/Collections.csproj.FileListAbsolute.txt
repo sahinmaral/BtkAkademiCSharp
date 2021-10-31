@@ -1,0 +1,16 @@
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\Collections.exe
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\Collections.deps.json
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\Collections.dll
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\ref\Collections.dll
+C:\Users\sahin\Desktop\C#\Collections\bin\Debug\net5.0\Collections.pdb
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.dll
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\ref\Collections.dll
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.pdb
+C:\Users\sahin\Desktop\C#\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
