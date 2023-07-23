@@ -1,6 +1,0 @@
-C:\Users\sahin\Desktop\C#\DesignPatterns\Prototype\Prototype\Prototype\bin\Debug\Prototype.exe
-C:\Users\sahin\Desktop\C#\DesignPatterns\Prototype\Prototype\Prototype\bin\Debug\Prototype.pdb
-C:\Users\sahin\Desktop\C#\DesignPatterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
-C:\Users\sahin\Desktop\C#\DesignPatterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
-C:\Users\sahin\Desktop\C#\DesignPatterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.exe
-C:\Users\sahin\Desktop\C#\DesignPatterns\Prototype\Prototype\Prototype\obj\Debug\Prototype.pdb

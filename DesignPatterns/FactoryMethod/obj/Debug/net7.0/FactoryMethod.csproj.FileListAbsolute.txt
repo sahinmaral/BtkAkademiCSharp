@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll

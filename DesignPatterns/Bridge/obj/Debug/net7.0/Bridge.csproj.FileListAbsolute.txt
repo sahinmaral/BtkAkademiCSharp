@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\bin\Debug\net7.0\Bridge.exe
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\bin\Debug\net7.0\Bridge.deps.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\bin\Debug\net7.0\Bridge.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\bin\Debug\net7.0\Bridge.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Bridge\obj\Debug\net7.0\ref\Bridge.dll

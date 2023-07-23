@@ -1,0 +1,5 @@
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Symbols LinesOfCode="44" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.9.11.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
   <Class Class="#1=T:[DevFramework.Core]DevFramework.Core.Aspects.Postsharp.LogAspects.LogAspect">
-    <Instance Declaration="#2=A:DevFramework.Northwind.Business" Id="5ffabd7d31476684">
+    <Instance Declaration="#2=A:DevFramework.Northwind.Business" Id="5ffabd7df18c52e7">
       <Target Target="#3=M:[DevFramework.Northwind.Business]DevFramework.Northwind.Business.Concrete.Managers.ProductManager::Add(DevFramework.Northwind.Entities.Concrete.Product)" LinesAvoided="2">
         <JoinPoint Advising="#1" Description="#4=Wrapped by advice(s) OnEntry" Ordinal="5" />
       </Target>
@@ -20,38 +20,38 @@
     </Instance>
   </Class>
   <Class Class="#9=T:[DevFramework.Core]DevFramework.Core.Aspects.Postsharp.ValidationAspects.FluentValidationAspect">
-    <Instance Declaration="#3" Id="5ffabd7d6b94811f">
+    <Instance Declaration="#3" Id="5ffabd7d66be6ea1">
       <Target LinesAvoided="2">
         <JoinPoint Advising="#9" Description="#4" Ordinal="3" />
       </Target>
     </Instance>
-    <Instance Declaration="#5" Id="5ffabd7d169db43a">
+    <Instance Declaration="#5" Id="5ffabd7dce917bed">
       <Target LinesAvoided="2">
         <JoinPoint Advising="#9" Description="#4" Ordinal="6" />
       </Target>
     </Instance>
-    <Instance Declaration="#6" Id="5ffabd7da3d1abaf">
+    <Instance Declaration="#6" Id="5ffabd7d5eb93e0b">
       <Target LinesAvoided="2">
         <JoinPoint Advising="#9" Description="#4" Ordinal="8" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#10=T:[DevFramework.Core]DevFramework.Core.Aspects.Postsharp.CacheAspects.CacheRemoveAspect">
-    <Instance Declaration="#3" Id="5ffabd7db3920a64">
+    <Instance Declaration="#3" Id="5ffabd7db0cb46f6">
       <Target LinesAvoided="2">
         <JoinPoint Advising="#10" Description="#11=Wrapped by advice(s) OnSuccess" Ordinal="4" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#12=T:[DevFramework.Core]DevFramework.Core.Aspects.Postsharp.TransactionAspects.TransactionScopeAspect">
-    <Instance Declaration="#6" Id="5ffabd7d2e334b60">
+    <Instance Declaration="#6" Id="5ffabd7d82cfd473">
       <Target LinesAvoided="6">
         <JoinPoint Advising="#12" Description="#13=Wrapped by advice(s) OnEntry, OnSuccess, OnExit" Ordinal="9" />
       </Target>
     </Instance>
   </Class>
   <Class Class="#14=T:[DevFramework.Core]DevFramework.Core.Aspects.Postsharp.CacheAspects.CacheAspect">
-    <Instance Declaration="#7" Id="5ffabd7db0ca9a49">
+    <Instance Declaration="#7" Id="5ffabd7df10882ba">
       <Target LinesAvoided="2">
         <JoinPoint Advising="#14" Description="#15=Intercepted by OnInvoke" Ordinal="0" />
       </Target>

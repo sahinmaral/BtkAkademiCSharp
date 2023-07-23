@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\bin\Debug\net7.0\Multiton.exe
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\bin\Debug\net7.0\Multiton.deps.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\bin\Debug\net7.0\Multiton.runtimeconfig.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\bin\Debug\net7.0\Multiton.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\bin\Debug\net7.0\Multiton.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.AssemblyInfo.cs
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\refint\Multiton.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\Multiton.genruntimeconfig.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Multiton\obj\Debug\net7.0\ref\Multiton.dll

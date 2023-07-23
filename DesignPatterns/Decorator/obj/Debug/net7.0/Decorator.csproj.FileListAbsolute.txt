@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DesignPatterns\Decorator\obj\Debug\net7.0\ref\Decorator.dll
