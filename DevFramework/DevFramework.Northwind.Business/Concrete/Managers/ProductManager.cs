@@ -1,4 +1,6 @@
-﻿using DevFramework.Core.Aspects.Postsharp.AuthorizationAspects;
+﻿using AutoMapper;
+
+using DevFramework.Core.Aspects.Postsharp.AuthorizationAspects;
 using DevFramework.Core.Aspects.Postsharp.CacheAspects;
 using DevFramework.Core.Aspects.Postsharp.LogAspects;
 using DevFramework.Core.Aspects.Postsharp.PerformanceAspects;
@@ -12,17 +14,18 @@ using DevFramework.Northwind.DataAccess.Abstract;
 using DevFramework.Northwind.Entities.Concrete;
 
 using System.Collections.Generic;
-using System.Threading;
 
 namespace DevFramework.Northwind.Business.Concrete.Managers
 {
     public class ProductManager : IProductService
     {
         private IProductDal _productDal;
+        private IMapper _mapper;
 
-        public ProductManager(IProductDal productDal)
+        public ProductManager(IProductDal productDal, IMapper mapper)
         {
             _productDal = productDal;
+            _mapper = mapper;
         }
 
         [SecuredOperation(Roles="Admin")]
@@ -31,7 +34,9 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         [LogAspect(typeof(DatabaseLogger))]
         public List<Product> GetAll()
         {
-            return _productDal.GetList();
+            List<Product> products = _mapper.Map<List<Product>>(_productDal.GetList());
+
+            return products;
         }
 
         public Product GetById(int id)

@@ -139,8 +139,6 @@ C:\Users\sahin\Desktop\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Cor
 C:\Users\sahin\Desktop\DevFramework\DevFramework.Core\obj\Debug\PostSharp\touch
 C:\Users\sahin\Desktop\DevFramework\DevFramework.Core\obj\Debug\PostSharp\AdditionalBuildDependencies.txt
 C:\Users\sahin\Desktop\DevFramework\DevFramework.Core\obj\Debug\PostSharp\postsharp.app.config
-C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.AssemblyReference.cache
-C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.CoreCompileInputs.cache
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.pssym
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.pspdb
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\DevFramework.Core.dll.config
@@ -198,9 +196,13 @@ C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\De
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\sv\FluentValidation.resources.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\tr\FluentValidation.resources.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.CoreCompileInputs.cache
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\PostSharp\touch
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\PostSharp\AdditionalBuildDependencies.txt
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.csproj.CopyComplete
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\DevFramework.Core.pdb
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\AutoMapper.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Core\bin\Debug\AutoMapper.xml

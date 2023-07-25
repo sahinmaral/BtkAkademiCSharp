@@ -141,8 +141,6 @@ C:\Users\sahin\Desktop\DevFramework\DevFramework.Northwind.Business\obj\Debug\Po
 C:\Users\sahin\Desktop\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
 C:\Users\sahin\Desktop\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
 C:\Users\sahin\Desktop\DevFramework\DevFramework.Northwind.Business\obj\Debug\PostSharp\postsharp.app.config
-C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.AssemblyReference.cache
-C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pssym
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pspdb
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll.config
@@ -207,9 +205,13 @@ C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\De
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\sv\FluentValidation.resources.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\tr\FluentValidation.resources.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\zh-CN\FluentValidation.resources.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\PostSharp\touch
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\PostSharp\AdditionalBuildDependencies.txt
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CopyComplete
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\PostSharp\postsharp.app.config
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\AutoMapper.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\AutoMapper.xml
