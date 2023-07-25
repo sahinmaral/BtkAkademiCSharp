@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "88qBXtjtZnwuu91D7ZpjO+eSBSeZ6dw5O4U0iNRe/cA/PinRCVvYOTEnWkGMsRLlxtmNO7AvI61kMYZO70LaNQ==",
+  "dgSpecHash": "fwJcfvlL/vmHGPXHVCSD3Eweq9G0NQC+YEZ3A6k/DVF8u+aDt8R/+Wh7PWd9WhtNMkdPRyaUb7S9NHIDoSpzpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sahin\\Desktop\\C#\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\BtkAkademiCSharp\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sahin\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\sahin\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

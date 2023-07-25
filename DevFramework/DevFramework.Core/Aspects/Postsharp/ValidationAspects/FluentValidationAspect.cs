@@ -1,8 +1,12 @@
-﻿using System;
-using System.Linq;
-using DevFramework.Core.CrossCuttingConcerns.Validation.FluentValidation;
+﻿using DevFramework.Core.CrossCuttingConcerns.Validation.FluentValidation;
+using DevFramework.Core.Entities;
+
 using FluentValidation;
+
 using PostSharp.Aspects;
+
+using System;
+using System.Linq;
 
 namespace DevFramework.Core.Aspects.Postsharp.ValidationAspects
 {
@@ -12,7 +16,7 @@ namespace DevFramework.Core.Aspects.Postsharp.ValidationAspects
         Type _validatorType;
         public FluentValidationAspect(Type validatorType)
         {
-            _validatorType = validatorType;
+            _validatorType = validatorType;    
         }
         public override void OnEntry(MethodExecutionArgs args)
         {

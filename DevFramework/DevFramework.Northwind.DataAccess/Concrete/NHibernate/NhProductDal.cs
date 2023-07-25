@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DevFramework.Core.DataAccess.NHihabernate;
+﻿using DevFramework.Core.DataAccess.NHihabernate;
 using DevFramework.Northwind.DataAccess.Abstract;
 using DevFramework.Northwind.Entities.ComplexTypes;
 using DevFramework.Northwind.Entities.Concrete;
+
 using NHibernate.Linq;
+
+using System.Collections.Generic;
+using System.Linq;
 
 namespace DevFramework.Northwind.DataAccess.Concrete.NHibernate
 {

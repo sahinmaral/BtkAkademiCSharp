@@ -1,7 +1,11 @@
-﻿using DevFramework.Core.Aspects.Postsharp.CacheAspects;
+﻿using DevFramework.Core.Aspects.Postsharp.AuthorizationAspects;
+using DevFramework.Core.Aspects.Postsharp.CacheAspects;
+using DevFramework.Core.Aspects.Postsharp.LogAspects;
+using DevFramework.Core.Aspects.Postsharp.PerformanceAspects;
 using DevFramework.Core.Aspects.Postsharp.TransactionAspects;
 using DevFramework.Core.Aspects.Postsharp.ValidationAspects;
 using DevFramework.Core.CrossCuttingConcerns.Caching.Microsoft;
+using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using DevFramework.Northwind.Business.Abstract;
 using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
 using DevFramework.Northwind.DataAccess.Abstract;
@@ -9,8 +13,6 @@ using DevFramework.Northwind.Entities.Concrete;
 
 using System.Collections.Generic;
 using System.Threading;
-using DevFramework.Core.Aspects.Postsharp.LogAspects;
-using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 
 namespace DevFramework.Northwind.Business.Concrete.Managers
 {
@@ -23,11 +25,13 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
             _productDal = productDal;
         }
 
+        [SecuredOperation(Roles="Admin")]
+        [PerformanceCounterAspect(2)]
         [CacheAspect(typeof(MemoryCacheManager))]
+        [LogAspect(typeof(DatabaseLogger))]
         public List<Product> GetAll()
         {
             return _productDal.GetList();
-
         }
 
         public Product GetById(int id)

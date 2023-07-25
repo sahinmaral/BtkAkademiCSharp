@@ -12,11 +12,13 @@
 </head>
 <body>
 <div>
-      @foreach (var product in Model.Products)
-      {
-          @product.ProductName
-          <br>
-      }
+    <h1>Products</h1>
+    <ul>
+        @foreach (var product in Model.Products)
+        {
+            <li>@product.ProductName</li>
+        }
+    </ul>
 </div>
 </body>
 </html>

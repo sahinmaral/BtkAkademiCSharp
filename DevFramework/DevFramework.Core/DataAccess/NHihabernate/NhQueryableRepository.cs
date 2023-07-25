@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DevFramework.Core.Entities;
+﻿using DevFramework.Core.Entities;
+
 using NHibernate.Linq;
+
+using System.Linq;
 
 namespace DevFramework.Core.DataAccess.NHihabernate
 {

@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahin\\Desktop\\C#\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj": {}
+    "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\BtkAkademiCSharp\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahin\\Desktop\\C#\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj": {
+    "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\BtkAkademiCSharp\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\C#\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\BtkAkademiCSharp\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj",
         "projectName": "Northwind.UnitTests",
-        "projectPath": "C:\\Users\\sahin\\Desktop\\C#\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\BtkAkademiCSharp\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\Northwind.UnitTests.csproj",
         "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahin\\Desktop\\C#\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\Files\\GithubRepositories\\BtkAkademiCSharp\\NLayerArchitecture\\NlayerArchitectureDemo\\Northwind.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +68,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,3 +12,17 @@ C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.Da
 C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
 C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
 C:\Users\sahin\Desktop\C#\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\NLayerArchitecture\NlayerArchitectureDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb

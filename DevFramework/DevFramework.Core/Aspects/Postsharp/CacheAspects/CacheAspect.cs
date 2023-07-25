@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using DevFramework.Core.CrossCuttingConcerns.Caching;
+
+using PostSharp.Aspects;
+
+using System;
 using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-using DevFramework.Core.CrossCuttingConcerns.Caching;
-using PostSharp.Aspects;
 
 namespace DevFramework.Core.Aspects.Postsharp.CacheAspects
 {

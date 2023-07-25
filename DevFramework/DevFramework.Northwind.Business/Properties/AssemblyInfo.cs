@@ -1,7 +1,9 @@
-﻿using System.Reflection;
-using System.Runtime.InteropServices;
+﻿using DevFramework.Core.Aspects.Postsharp.ExceptionAspects;
 using DevFramework.Core.Aspects.Postsharp.LogAspects;
 using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
+
+using System.Reflection;
+using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
@@ -14,8 +16,8 @@ using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly:LogAspect(typeof(DatabaseLogger),AttributeTargetTypes = "DevFramework.Northwind.Business.Concrete.Managers.*")]
-
+[assembly: LogAspect(typeof(FileLogger), AttributeTargetTypes = "DevFramework.Northwind.Business.Concrete.Managers.*")]
+[assembly: ExceptionLogAspect(typeof(DatabaseLogger), AttributeTargetTypes = "DevFramework.Northwind.Business.Concrete.Managers.*")]
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
 // COM, set the ComVisible attribute to true on that type.

@@ -1,4 +1,5 @@
 ﻿using DevFramework.Northwind.Entities.Concrete;
+
 using FluentNHibernate.Mapping;
 
 namespace DevFramework.Northwind.DataAccess.Concrete.NHibernate.Mappings

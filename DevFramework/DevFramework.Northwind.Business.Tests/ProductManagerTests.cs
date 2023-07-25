@@ -1,9 +1,11 @@
-﻿using System;
-using DevFramework.Northwind.Business.Concrete.Managers;
+﻿using DevFramework.Northwind.Business.Concrete.Managers;
 using DevFramework.Northwind.DataAccess.Abstract;
 using DevFramework.Northwind.Entities.Concrete;
+
 using FluentValidation;
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+
 using Moq;
 
 namespace DevFramework.Northwind.Business.Tests
@@ -19,7 +21,6 @@ namespace DevFramework.Northwind.Business.Tests
             ProductManager productManager=new ProductManager(mock.Object);
 
             productManager.Add(new Product());
-
         }
     }
 }

@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using log4net.Core;
+﻿using log4net.Core;
 using log4net.Layout;
+
 using Newtonsoft.Json;
+
+using System.IO;
 
 namespace DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Layouts
 {

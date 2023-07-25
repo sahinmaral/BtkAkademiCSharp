@@ -30,7 +30,7 @@ namespace DevFramework.Northwind.MvcWebUI.Controllers
                 CategoryId = 1,
                 ProductName = "Gsm",
                 QuantityPerUnit = "1",
-                UnitPrice = 21
+                UnitPrice = 19
 
             });
             return "Added";

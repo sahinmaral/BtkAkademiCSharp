@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-using DevFramework.Core.CrossCuttingConcerns.Logging;
+﻿using DevFramework.Core.CrossCuttingConcerns.Logging;
 using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net;
+
 using PostSharp.Aspects;
 using PostSharp.Extensibility;
+
+using System;
+using System.Linq;
+using System.Reflection;
 
 namespace DevFramework.Core.Aspects.Postsharp.LogAspects
 {

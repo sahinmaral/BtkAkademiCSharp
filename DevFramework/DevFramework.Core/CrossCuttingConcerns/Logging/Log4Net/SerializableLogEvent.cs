@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using log4net.Core;
+﻿using log4net.Core;
+
+using System;
 
 namespace DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net
 {
