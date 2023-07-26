@@ -341,3 +341,5 @@ C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\De
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.MvcWebUI\obj\Debug\DevFramework.Northwind.MvcWebUI.csproj.CopyComplete
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.MvcWebUI\obj\Debug\DevFramework.Northwind.MvcWebUI.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.MvcWebUI\obj\Debug\DevFramework.Northwind.MvcWebUI.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.MvcWebUI\bin\AutoMapper.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.MvcWebUI\bin\AutoMapper.xml

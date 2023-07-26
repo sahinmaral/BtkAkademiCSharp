@@ -224,3 +224,5 @@ C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\De
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.csproj.CopyComplete
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.dll
 C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business.Tests\obj\Debug\DevFramework.Northwind.Business.Tests.pdb
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\AutoMapper.dll
+C:\Users\sahin\Desktop\Files\GithubRepositories\BtkAkademiCSharp\DevFramework\DevFramework.Northwind.Business.Tests\bin\Debug\AutoMapper.xml

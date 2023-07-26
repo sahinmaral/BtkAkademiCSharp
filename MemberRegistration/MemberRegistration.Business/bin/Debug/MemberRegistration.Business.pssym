@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="121" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.9.11.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[MemberRegistration.Core]MemberRegistration.Core.Aspects.Postsharp.ValidationAspects.FluentValidationAspect">
+    <Instance Declaration="#2=M:[MemberRegistration.Business]MemberRegistration.Business.Concrete.MemberManager::Add(MemberRegistration.Entities.Concrete.Member)" Id="9c6ac121345b7d3b">
+      <Target LinesAvoided="2">
+        <JoinPoint Advising="#1" Description="#3=Wrapped by advice(s) OnEntry" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[MemberRegistration.Core]MemberRegistration.Core.Aspects.Postsharp.ValidationAspects.FluentValidationAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>

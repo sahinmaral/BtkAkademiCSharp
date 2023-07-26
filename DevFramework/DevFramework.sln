@@ -21,28 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFramework.Northwind.Busi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFramework.Northwind.WebApi", "DevFramework.Northwind.WebApi\DevFramework.Northwind.WebApi.csproj", "{7CAF5B98-39A7-472B-8AB8-93735631D4F1}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DevFramework.Northwind.WcfService", "DevFramework.Northwind.WcfService\", "{2C506A05-BCD1-4DEE-8018-36C78210E39A}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_35259"
-		Debug.AspNetCompiler.PhysicalPath = "DevFramework.Northwind.WcfService\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_35259\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_35259"
-		Release.AspNetCompiler.PhysicalPath = "DevFramework.Northwind.WcfService\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_35259\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "35259"
-		SlnRelativePath = "DevFramework.Northwind.WcfService\"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,10 +63,6 @@ Global
 		{7CAF5B98-39A7-472B-8AB8-93735631D4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CAF5B98-39A7-472B-8AB8-93735631D4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CAF5B98-39A7-472B-8AB8-93735631D4F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C506A05-BCD1-4DEE-8018-36C78210E39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C506A05-BCD1-4DEE-8018-36C78210E39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C506A05-BCD1-4DEE-8018-36C78210E39A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C506A05-BCD1-4DEE-8018-36C78210E39A}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
